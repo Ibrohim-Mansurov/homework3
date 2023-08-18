@@ -1,0 +1,41 @@
+body{
+    background-color: red;
+}
+.shapka{
+    color: white;
+    text-align: center;
+}
+.text1{
+    color: black;;
+    background-color: white;
+    text-align: left;
+}
+
+.text2{
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.text3{
+    color: black;
+    background-color: white;
+    text-align: right;
+}
+.rang1{
+    color: red;
+}
+.rang2{
+    color: red;
+}
+.rang3{
+    color: red;
+}
+.rang4{
+    color: red;
+}
+.rang5{
+    color: red;
+}
+.rang6{
+    color: red;
+}

@@ -1,0 +1,18 @@
+.text1{
+color: blue;
+text-decoration:  overline;
+text-decoration-color: red;
+text-transform: capitalize;
+text-align: center;
+border: 3px double green;
+border-radius: 20px;
+ }
+
+
+ .text2{
+color: aqua;
+ }
+
+ .menu{
+    list-style: decimal-leading-zero;
+ }
